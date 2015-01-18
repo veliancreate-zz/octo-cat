@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branching is a method to allow developers to work on segments of code outside of the 'master' branch. This creates flexibility because the core master code can be kept in tact and unaffected while experiments and tests can be conducted through the branched code
