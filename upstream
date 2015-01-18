@@ -1,1 +1,1 @@
-Upstream is a remote connection that syncs a users forked repository and altered code with the original repository, enabling a pull request. The forked stream is given the remote name 'original', whereas the original repo stream is called 'upstream'
+Explain what the "upstream" remote is usually used for, in your own words
